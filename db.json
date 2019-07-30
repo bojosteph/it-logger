@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "better evet",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-07-30T14:53:26.925Z",
+      "id": 2
+    },
+    {
+      "message": "changed",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-07-30T14:54:37.801Z",
+      "id": 3
+    },
+    {
+      "message": "New Event ",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-07-30T14:57:25.725Z",
+      "id": 4
+    },
+    {
+      "message": "xootopia",
+      "attention": true,
+      "tech": "Jerry Boe",
+      "date": "2019-07-30T15:00:44.898Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
