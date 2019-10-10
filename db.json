@@ -1,32 +1,18 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "better evet",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-07-30T17:08:28.658Z"
-    },
-    {
-      "message": "changed",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-07-30T14:54:37.801Z",
-      "id": 3
-    },
-    {
-      "message": "New Event ",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2019-07-30T14:57:25.725Z",
-      "id": 4
-    },
-    {
       "message": "xootopia",
       "attention": true,
       "tech": "Jerry Boe",
       "date": "2019-07-30T15:00:44.898Z",
       "id": 5
+    },
+    {
+      "message": "hello",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-10-10T17:18:33.163Z",
+      "id": 6
     }
   ],
   "techs": [
